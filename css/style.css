@@ -1,0 +1,56 @@
+body{
+  font-family: Helvetica, Verdana, "Seguo UI";
+  font-size: 115%;
+}
+
+header{
+  background-color: #045400;
+  text-align: center;
+}
+
+nav{
+  background-color: #57cf0c;
+  color: #57cf0c;
+  text-align: center;
+}
+
+a:visited{
+  color: #750000;
+}
+
+a:link{
+  color: #3d0075;
+}
+
+main{
+  background-color: #e0e0c7;
+  font-size: 115%;
+  text-align: justify;
+}
+
+footer{
+  background-color: #c7c7c7;
+  font-size: 90%;
+  text-align: justify;
+}
+
+li{
+  display: inline-block;
+  width: 32%;
+}
+
+h1{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white
+}
+
+p{
+  line-height: 120%;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+  gap: 1%;
+}
